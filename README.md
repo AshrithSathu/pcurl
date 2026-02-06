@@ -1,7 +1,9 @@
 # pcurl
 
 **Does alternatives exist?** Yes.
+
 **But do I want to use them?** No.
+
 **So I built one.**
 
 Simply switch `curl` with `pcurl` and enjoy beautiful, highlighted JSON output automatically.
